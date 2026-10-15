@@ -9,7 +9,7 @@ I am **Rohan Amrale**, a passionate **DevOps Engineer** with 3+ years of experie
 ## 🚀 I mostly work with:
 
 - Infrastructure as Code (Terraform)
-- Cloud Platforms (AWS, GCP)
+- Cloud Platforms (Azure, AWS, GCP)
 - Kubernetes & Docker
 - CI/CD Pipelines (Jenkins, GitHub Actions)
 - Monitoring & Logging (Prometheus, Grafana, CloudWatch)
